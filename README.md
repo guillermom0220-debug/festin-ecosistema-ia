@@ -50,13 +50,16 @@ Cada 15 min
 
 ## Enlaces
 
+**Abren sin necesidad de cuenta:**
+
 | Recurso | Enlace |
 |---|---|
 | Escenario 1 — Generación | https://us2.make.com/public/shared-scenario/pTeeVWUStNB/festin-1-generacion-de-contenido |
 | Escenario 2 — Distribución con HITL | https://us2.make.com/public/shared-scenario/4jeHK0k5v8s/festin-2-distribucion-con-hitl |
-| Dashboard de Control | https://airtable.com/app1KnLvAzHHtM5fP/pag6bIqvunOYUbRP6 |
 | Vista pública — Logs | https://airtable.com/app1KnLvAzHHtM5fP/shrpOjQjwl5PjRlYN/tblEs5H4KXetAG5Jv/viwC6WdmO4mdYeIUV |
 | Vista pública — Piezas | https://airtable.com/app1KnLvAzHHtM5fP/shrpOjQjwl5PjRlYN/tbl1aODnCVlOpLq0v/viwsKPOypw3AL44nF |
+
+**Acceso restringido:** el dashboard vive en una Interface de Airtable (`app1KnLvAzHHtM5fP/pag6bIqvunOYUbRP6`), cuya publicación requiere plan Team. La evidencia consultable es [`evidencias/13-dashboard-tasa-error.png`](evidencias/13-dashboard-tasa-error.png) y las dos vistas públicas de arriba, que muestran los mismos conteos agrupados.
 
 ## Estructura del repositorio
 
